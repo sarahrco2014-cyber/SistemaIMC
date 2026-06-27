@@ -41,11 +41,11 @@ O sistema permite:
 
 Compilar o projeto:
 
-javac src/*.java
+javac src/main/java/*.java
 
 Executar o programa:
 
-java -cp src Main
+java -cp src/main/java Main
 
 ## Exemplo de Uso
 
