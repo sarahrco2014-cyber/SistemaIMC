@@ -56,5 +56,7 @@ java -cp src/main/java Main
 
 ## Autor
 
-Sarah Rodrigues Cunha
+Sarah Rodrigues Cunha RA:72600293
+
+Caio Trentin Tibério RA:72601237
 
