@@ -37,6 +37,12 @@ O sistema permite:
 * EntradaInvalidaException.java
 * Main.java
 
+## Dependência utilizada
+
+O projeto utiliza a biblioteca JUnit Jupiter como dependência do Maven.
+
+Ela foi adicionada para permitir a criação de testes unitários, seguindo as boas práticas de desenvolvimento Java e atendendo ao requisito de gerenciamento de dependências do projeto.
+
 ## Como Executar
 
 Compilar o projeto:
